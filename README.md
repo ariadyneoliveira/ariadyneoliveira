@@ -3,8 +3,6 @@
 
 👩‍💻 Software Engineer Grupo Boticário 
 
-🎙️ I've already talked a lot about technology in the podcast @ [Cabeca de Lab](http://www.cabecadelab.com.br/)
-
 🌱 Learning more about Cloud Architecture, Software Engineering and Information Security
 
 
